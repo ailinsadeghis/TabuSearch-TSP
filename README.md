@@ -24,4 +24,4 @@ So, you wanna join the expedition? Here's how:
 1. **Map Your Journey**: Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/TabuSearch-TSP.git
+   git clone https://github.com/ailinsadeghis/TabuSearch-TSP.git
